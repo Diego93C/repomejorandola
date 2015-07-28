@@ -1,0 +1,35 @@
+commit a8c8782e07971ca3b87b2b3532fc3904c5216115
+Author: Diego93C <Diego-mini6@Minidemkk3rlabs.router82d414.com>
+Date:   Tue Jul 28 13:51:22 2015 -0500
+
+    Salve mi portafolio
+
+commit 02a4e198f7e98cde3d0c2ee0d59e3ea19caabbe8
+Author: Diego93C <Diego-mini6@Minidemkk3rlabs.router82d414.com>
+Date:   Tue Jul 28 13:48:50 2015 -0500
+
+    Agregue descripcion
+
+commit 457757efd84d78d991477d3c2812ca692c469f8d
+Author: Diego93C <Diego-mini6@Minidemkk3rlabs.router82d414.com>
+Date:   Tue Jul 28 12:33:04 2015 -0500
+
+    Agregue redes sociales
+
+commit 65553e07de202890e64d2bf059c70a72491ced93
+Author: Diego93C <Diego-mini6@Minidemkk3rlabs.router82d414.com>
+Date:   Tue Jul 28 12:29:10 2015 -0500
+
+    Perfil web escrito
+
+commit 09581aca8df7f9577ba4d70526b566d4acc4ea4c
+Author: Diego93C <Diego-mini6@Minidemkk3rlabs.router82d414.com>
+Date:   Tue Jul 28 12:26:50 2015 -0500
+
+    Subi foto de perfil y mi nombre
+
+commit f32d4171c8fabd679c84e173568a8489b72d891f
+Author: Diego93C <Diego-mini6@Minidemkk3rlabs.router82d414.com>
+Date:   Tue Jul 28 12:15:50 2015 -0500
+
+    Estos son los archivos base de mi portafolio
